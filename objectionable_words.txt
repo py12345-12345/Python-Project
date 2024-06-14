@@ -1,0 +1,51 @@
+church
+synagogue
+mosque
+temple
+desirable
+crime
+illegal
+gang
+pride
+poor
+bullets
+graffiti
+hoard
+affordable neighborhood
+integrated community
+race
+black
+white
+Hispanic
+Asian
+African American
+native American
+racial
+Jewish
+Latino
+homogenous
+Chinese
+Japanese
+religion
+ethnic
+Muslim
+Islamic
+Christian
+Mexican
+Puerto Rican
+Cuban
+cheap
+economical
+low cost
+inexpensive
+house of faith 
+house of worship
+American Indian
+Alaska native
+native Hawaiian
+pacific islander
+young
+mature
+old
+female
+handicap
